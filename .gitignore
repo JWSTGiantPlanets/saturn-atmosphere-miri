@@ -1,0 +1,14 @@
+# Ignore everything...
+*
+!**/
+
+# ... except useful filetypes...
+!*.md
+!*.spx
+!*.png
+!*.mp4
+!*.fits
+
+# ... and keep useful files...
+!.gitignore
+!.gitattributes
