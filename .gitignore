@@ -1,0 +1,11 @@
+# Ignore everything...
+*
+!**/
+
+# ... except useful filetypes...
+!*.md
+
+
+# ... and keep useful files...
+!.gitignore
+!.gitattributes
