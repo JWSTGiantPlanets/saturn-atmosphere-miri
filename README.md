@@ -14,4 +14,4 @@ The `zonal_average_spectra` directory contains the calculated zonal average spec
 The `flat fields` directory contains the derived flat fields calculated from the observed Saturn data using the [`construct_flat_field`](https://github.com/JWSTGiantPlanets/pipelines/blob/main/construct_flat_field.py) script in the [`pipelines`](https://github.com/JWSTGiantPlanets/pipelines) repository.
 
 ## See also
-The [`pipelines`](https://github.com/JWSTGiantPlanets/pipelines) repository contains the reduction pipeline code used to process the raw stage0 data used in this study.
+The [`pipelines`](https://github.com/JWSTGiantPlanets/pipelines) repository contains the reduction pipeline code used to reduce and process the data used in this study.
