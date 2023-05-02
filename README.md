@@ -1,6 +1,6 @@
 # Saturn's Atmosphere in Northern Summer Revealed by JWST/MIRI
 
-Supplementary material for Fletcher et al. (2022)
+Supplementary material for Fletcher et al. (2023)
 
 ## Contents
 
