@@ -2,6 +2,8 @@
 
 Supplementary material for Fletcher et al. (2023)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7891589.svg)](https://doi.org/10.5281/zenodo.7891589)
+
 ## Contents
 
 ### Quick look visualisations
