@@ -12,6 +12,9 @@ The `quick_looks` directory contains quick look plots and animations used to vis
 ### Zonal averages
 The `zonal_average_spectra` directory contains the calculated zonal average spectra of Saturn for each channel at planetographic latitudes from 20°S to 90°N. The zonal averages were calculated using the [`zonal_average`](https://github.com/JWSTGiantPlanets/pipelines/blob/main/zonal_average.py) script in the [pipelines repository](https://github.com/JWSTGiantPlanets/pipelines).
 
+The `zonal_average_plots` directory contains plots showing the variation in the zonal average spectra with latitude. Each plot shows the difference between the zonal average spectrum at each latitude and the mean spectrum (averaged over all latitudes) where red areas are brighter than the mean and blue areas are darker.
+
+
 ### Flat fields
 The `flat fields` directory contains the derived flat fields calculated from the observed Saturn data using the [`construct_flat_field`](https://github.com/JWSTGiantPlanets/pipelines/blob/main/construct_flat_field.py) script in the [pipelines repository](https://github.com/JWSTGiantPlanets/pipelines).
 
