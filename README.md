@@ -25,5 +25,9 @@ The `figures` directory contains all of the figires prepared for Fletcher et al.
 
 ### Retrieval Results
 JWST MIRI spectra were fitted with the NEMESIS optimal estimation retrieval algorithm, resulting in estimates of zonal mean temperatures, clouds, and gaseous composition.  These were used to generate Figs. 14-17 of the main paper, and the retrieved parameters are saved as CSV files in the `retrieval_results` directory.  See the README file for a full explanation.
+
+### Reference Atmosphere
+Our retrievals start from prior assumptions about the temperature and composition, and these can all be accessed through the `SatAtm.ref` file.
+
 ## See also
 The [pipelines repository](https://github.com/JWSTGiantPlanets/pipelines) contains the reduction pipeline code used to reduce and process the data used in this study.
