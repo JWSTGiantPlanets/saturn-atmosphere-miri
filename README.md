@@ -2,6 +2,8 @@
 
 Supplementary material for Fletcher et al. (2023)
 
+Leigh N. Fletcher, Oliver R.T. King, Jake Harkett, Heidi B. Hammel, Michael T. Roman, Henrik Melin, Matthew M. Hedman, Julianne I. Moses, Sandrine Guerlet, Stefanie N. Milam, Matthew S. Tiscareno (2023), *Saturn’s Atmosphere in Northern Summer Revealed by JWST/MIRI*, JGR: Planets, Volume 128, e2023JE007924 [Arxiv](https://arxiv.org/abs/2309.06052) [DOI](https://dx.doi.org/10.1029/2023JE007924)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7891588.svg)](https://doi.org/10.5281/zenodo.7891588)
 
 
@@ -18,6 +20,8 @@ The `zonal_average_spectra` directory contains the calculated zonal average spec
 
 The `zonal_average_plots` directory contains plots showing the variation in the zonal average spectra with latitude. Each plot shows the difference between the zonal average spectrum at each latitude and the mean spectrum (averaged over all latitudes) where red areas are brighter than the mean and blue areas are darker.
 
+### Figures
+The `figures` directory contains all of the figires prepared for Fletcher et al. (2023).  
 
 ## See also
 The [pipelines repository](https://github.com/JWSTGiantPlanets/pipelines) contains the reduction pipeline code used to reduce and process the data used in this study.
